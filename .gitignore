@@ -6,6 +6,8 @@
 # production
 /dist
 
+.eslintcache
+
 # misc
 .DS_Store
 npm-debug.log*
